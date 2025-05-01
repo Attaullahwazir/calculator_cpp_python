@@ -61,7 +61,7 @@ Run the calculator:
 ```bash
 python3 main.py
 ```
-##🧠 Technical Overview
+## 🧠 Technical Overview
 - calc.cpp: Defines basic arithmetic functions and exposes them using extern "C" for C-compatible linkage.
 - build.sh: Compiles the C++ code into a shared object (.so) using g++.
 - main.py: Loads the shared object using ctypes, handles user input, and calls C++ functions.

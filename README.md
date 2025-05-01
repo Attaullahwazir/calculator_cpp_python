@@ -44,19 +44,19 @@ This project demonstrates how to integrate **C++** and **Python** using `ctypes`
 - Python 3.x
 - g++ compiler
 - Unix-like system (Linux, macOS, or WSL for Windows)
-# 1) 📥 Steps: 
+ 1) 📥 Steps: 
 Clone or download this repository:
 ```bash
 git clone https://github.com/attaullahwazir/calculator_cpp_python.git
 cd calculator_cpp_python 
 ```
-# 2) 📥 Steps:
+ 2) 📥 Steps:
  Make the build script executable and compile:
 ```bash
 chmod +x build.sh
 ./build.sh
 ```
-# 3) 📥 Steps: 
+ 3) 📥 Steps: 
 Run the calculator:
 ```bash
 python3 main.py

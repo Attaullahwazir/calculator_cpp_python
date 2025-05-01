@@ -76,6 +76,8 @@ Choose operation:
 2. Subtract
 3. Multiply
 4. Divide
+5. Modulo
+6. Square
 Your choice: 3
 Result: 50
 ```
